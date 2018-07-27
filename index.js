@@ -30,7 +30,7 @@ module.exports = function pro(wat, type = 'info', schemeNum = 0) {
     //     'position: absolute;' +
     //     'width: calc(100% + ' + offset + 'px);' +
     //     'left: -' + offset + 'px;' +
-    //     'top: 0;' +
+    //     'top: 0;' +gb
     //     'z-index: -1;';
 
     var customLineStyle = 'color: ' + colourSchemes[schemeNum].fore + ';' + 'padding: 3px 0px;' +
